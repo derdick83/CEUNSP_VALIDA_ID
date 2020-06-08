@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+0_GAB_AS1_F2/
+0_AS1_STATISTCS.ipynb
+*.csv
+*.gdoc
+*.gsheet
+*.gform
+FISICA2_AS1_PYTHON.py
+credentials.json
+gc_877575_fullgc_2020-06-08-11-25-06.xls
+token.json
